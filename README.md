@@ -5,6 +5,7 @@ password =
 Strength = 0
 
 #Strength calculated on character length + special character amount + integer amount
+#Score should be high to be considered a good password
 
 Low = int()
 Medium = int()
