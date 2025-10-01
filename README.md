@@ -1,7 +1,7 @@
 # BCUPassCracker
 Password Cracker made on behalf of BCU Cyber Security Students
 
-password = 
+password = str()
 Strength = 0
 
 #Strength calculated on special character amount + integer amount
@@ -12,5 +12,16 @@ Low = int()
 Medium = int()
 High = int()
 
-if
+
+SpecialCharacters = str()
+Numbers = int()
+
+if Numbers == true
+  Strength = strength + 1
+
+if SpecialCharacters == true
+  
+
+
+
 
